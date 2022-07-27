@@ -1,6 +1,6 @@
 package com.xiaoshuo.business.api.association.util.calculator;
 
-import com.xiaoshuotech.minmetals.association.api.util.calculator.impl.CalculateImpl;
+import com.xiaoshuo.business.api.association.util.calculator.impl.CalculateImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

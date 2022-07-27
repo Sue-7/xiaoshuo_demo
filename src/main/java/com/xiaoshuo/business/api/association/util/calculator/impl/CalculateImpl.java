@@ -1,7 +1,7 @@
 package com.xiaoshuo.business.api.association.util.calculator.impl;
 
 
-import com.xiaoshuotech.minmetals.association.api.util.calculator.*;
+import com.xiaoshuo.business.api.association.util.calculator.*;
 
 import java.math.RoundingMode;
 
