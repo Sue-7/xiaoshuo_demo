@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: xiaoshuotech.minmetals.association.api
+  cloud:
+    nacos:
+      config:
+        group: minmetals
+        file-extension: yaml
+        server-addr: ${NACOS_ADDRESS:192.168.1.94:8848}
+        namespace: ${NACOS_NAMESPACE:xiaoshuo}
+      discovery:
+        server-addr: ${NACOS_ADDRESS:192.168.1.94:8848}
+        namespace: ${NACOS_NAMESPACE:xiaoshuo}
